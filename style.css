@@ -1,0 +1,93 @@
+body{
+  background-color:lightgray !important;
+}
+
+
+.navbar {
+  padding: 10px;
+  background-color: #eeeeee !important;
+  height: 50px;
+  margin: 0px;
+}
+
+.navbar-brand{
+  color: white !important;
+  width: 100px;
+  background: lightseagreen;
+  font-family: Georgia;
+  font-size: 18px;
+  font-weight: bold;
+  text-align: center;
+  padding: 5px;
+  height: 40px;
+  margin: 0px;
+  
+}
+
+
+
+h1 {
+    font-size: 30px;
+    font-family: Georgia;
+    font-weight: bold !important;
+    color: lightseagreen;
+  }
+
+h4 {
+  font-size: 20px;
+  font-family: Georgia;
+  font-weight: bold !important;
+  color: lightseagreen;
+}
+
+h5 {
+  font-size: 26px;
+  font-family: Georgia;
+  font-weight: bold !important;
+  color: lightseagreen;
+  text-align: center;
+}
+
+.container {
+  margin: 50px;
+  padding: 25px;
+  color: #000000;
+  background-color: white;
+}
+
+.container-main {
+  margin: 40px;
+  margin-left: 200px;
+  padding: 25px;
+  width: 750px;
+  float: left;
+  color: #000000;
+  background-color: white;
+}
+
+.container-side {
+  margin: 40px;
+  margin-right: 250px;
+  width: 500px;
+  padding: 25px;
+  float: right;
+  color: #000000;
+  background-color: white;
+}
+  
+
+.compare-container{
+  margin: 25px;
+  padding: 25px;
+}
+      
+
+#imgborder{
+  border: 2px solid lightseagreen;
+}
+
+p{
+  color: black;
+  text-align:left;
+  line-height: 30px;
+}
